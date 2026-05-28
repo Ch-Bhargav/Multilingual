@@ -162,18 +162,6 @@ Rudra - 9876543210
 
 ---
 
-# Future Improvements
-
-- Real GUI frontend
-- File-based contact storage
-- JSON communication between layers
-- REST API integration
-- Database support
-- JNI / Python bindings
-- Shared libraries (.so / .dylib)
-
----
-
 # Learning Goals
 
 This project helps understand:
